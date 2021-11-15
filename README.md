@@ -34,5 +34,8 @@ After sorting by stars, I then use the textblob to analyze the review sentiment.
 ## Test Cases
 I added a few test cases that I used to compare different sentiment analyzers.  
 
+### Running Test Cases
+Test Cases can be run via  `python tests.py`
+
 
 
