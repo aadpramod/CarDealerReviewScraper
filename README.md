@@ -1,5 +1,5 @@
-#Car Dealer Review Sentiment Analyzer
-##Prompt:
+# Car Dealer Review Sentiment Analyzer
+## Prompt:
 Coding Challenge: “A Dealer For the People” <br>
 
 The KGB has noticed a resurgence of overly excited reviews for a McKaig Chevrolet Buick, a dealership they have planted 
